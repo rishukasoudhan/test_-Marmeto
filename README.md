@@ -14,7 +14,7 @@ The CSS file (styles.css) provides styling to enhance the visual presentation of
 
 ## JavaScript Functionality
 
-The JavaScript file (script.js) contains a basic function (`buyProduct()`) that can be customized to handle the purchase logic when the user clicks the "Buy Now" button. For instance, you may want to implement a shopping cart feature, handle payment processing, or navigate the user to a checkout page. Customize the JavaScript functionality based on the specific requirements of your e-commerce platform.
+he JavaScript file (script.js) contains a basic function that can be customized to handle Scroll and hover effect and  the purchase logic . 
 
 ## Getting Started
 
